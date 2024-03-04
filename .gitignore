@@ -4,7 +4,7 @@ backend/.env
 backend/.wrangler
 backend/wrangler.toml
 backend/.dev.vars
-
+.gitignore
 # Change them to your taste:
 backend/yarn.lock
 backend/package-lock.json
